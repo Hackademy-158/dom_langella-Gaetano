@@ -1,0 +1,16 @@
+p{
+    margin: 0
+}
+.card-custom{
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    margin: 10px;
+    background-color: rgba(0, 255, 255, 0.452);
+} 
